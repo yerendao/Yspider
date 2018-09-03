@@ -1,0 +1,19 @@
+{
+  "name": "downwebsite",
+  "version": "1.0.0",
+  "description": "全站下载工具",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhoulichen",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^12.0.0",
+    "nedb": "^1.8.0",
+    "request": "^2.88.0"
+  }
+}
